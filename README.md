@@ -1,8 +1,8 @@
 # docker-namp
 
-    Docker container with Alpine Linux + nginx + php7 + mariadb
+Docker container with Alpine Linux + nginx + php7 + mariadb
 
-    Created Spring 2017, xy22y@xy22y.org
+Created Spring 2017, xy22y@xy22y.org
 
 ## Build container
 
