@@ -7,9 +7,10 @@ LABEL \
         
 
 RUN apk --update add \
-  nginx \
+  git \
   mariadb \
   mariadb-client \
+  nginx \
   php7-fpm \
   php7-pdo \
   php7-json \
